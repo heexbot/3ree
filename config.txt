@@ -1,5 +1,5 @@
-token=NDQ4NTUzMjg4Mzk3MzU3MDU2.Dv6cTg.jCwH-TiR0wjV2xToOr-fMKa5yVg
-owner=469163253147107328
+token=NDQ1OTc3MzgyODAxODk5NTIx.DyEQsA.SjCkSKve9TAiWekfvtVFOKu1vF0
+owner=525604744526561283
 prefix= 1
 game= 1play l 1help
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
